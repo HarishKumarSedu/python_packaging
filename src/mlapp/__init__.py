@@ -1,7 +1,9 @@
 import os
 import sys
 import logging
+import mlflow_test
 
+mlflow_test = mlflow_test
 logging_str = "[%(asctime)s: %(levelname)s: %(module)s: %(message)s]"
 
 log_dir = "logs"
