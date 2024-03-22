@@ -21,6 +21,7 @@ if os.path.exists(long_description_filepath := Path(long_description_filepath)) 
     with open(long_description_filepath, 'r')  as description_file :
         long_description = description_file.read()
 
+
 setup(
     name=REPO_NAME,
     author=AUTHOR_USER_NAME,
@@ -33,7 +34,6 @@ setup(
         "Bug Tracker": f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues",
     },
     package_dir={"": "src"},
-    packages=find_packages(where="src"),
     classifiers=[
                 "Programming Language :: Python :: 3",
                 "License :: OSI Approved :: MIT License",
