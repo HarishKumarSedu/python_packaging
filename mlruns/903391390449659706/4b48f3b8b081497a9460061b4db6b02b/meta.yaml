@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/smlab/Documents/Harish/ml/mlOPS/my-project/mlruns/903391390449659706/4b48f3b8b081497a9460061b4db6b02b/artifacts
+end_time: 1711096628518
+entry_point_name: ''
+experiment_id: '903391390449659706'
+lifecycle_stage: active
+run_id: 4b48f3b8b081497a9460061b4db6b02b
+run_name: mysterious-snake-896
+run_uuid: 4b48f3b8b081497a9460061b4db6b02b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711096628481
+status: 3
+tags: []
+user_id: smlab

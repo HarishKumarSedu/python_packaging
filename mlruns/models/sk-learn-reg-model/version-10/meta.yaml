@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1711103667133
+current_stage: None
+description: null
+last_updated_timestamp: 1711103667133
+name: sk-learn-reg-model
+run_id: d6f213cf04574136900f099c0f9baabc
+run_link: null
+source: file:///C:/Users/smlab/Documents/Harish/ml/mlOPS/my-project/mlruns/903391390449659706/d6f213cf04574136900f099c0f9baabc/artifacts/sklearn-model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/smlab/Documents/Harish/ml/mlOPS/my-project/mlruns/903391390449659706/d6f213cf04574136900f099c0f9baabc/artifacts/sklearn-model
+user_id: null
+version: 10

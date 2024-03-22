@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/smlab/Documents/Harish/ml/mlOPS/my-project/mlruns/903391390449659706/25c6fcdf560d44b4afe7850233df6c0b/artifacts
+end_time: 1711096742500
+entry_point_name: ''
+experiment_id: '903391390449659706'
+lifecycle_stage: active
+run_id: 25c6fcdf560d44b4afe7850233df6c0b
+run_name: thoughtful-mule-25
+run_uuid: 25c6fcdf560d44b4afe7850233df6c0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711096742435
+status: 3
+tags: []
+user_id: smlab

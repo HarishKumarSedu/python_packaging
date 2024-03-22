@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/smlab/Documents/Harish/ml/mlOPS/my-project/mlruns/903391390449659706/33d93b75942049e4a41590fd271b9dde/artifacts
+end_time: 1711096768051
+entry_point_name: ''
+experiment_id: '903391390449659706'
+lifecycle_stage: active
+run_id: 33d93b75942049e4a41590fd271b9dde
+run_name: omniscient-crow-112
+run_uuid: 33d93b75942049e4a41590fd271b9dde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711096768012
+status: 3
+tags: []
+user_id: smlab

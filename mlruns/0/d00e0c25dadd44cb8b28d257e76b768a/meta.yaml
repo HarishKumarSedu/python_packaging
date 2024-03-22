@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/smlab/Documents/Harish/ml/mlOPS/my-project/mlruns/0/d00e0c25dadd44cb8b28d257e76b768a/artifacts
+end_time: 1711053804415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d00e0c25dadd44cb8b28d257e76b768a
+run_name: industrious-lamb-852
+run_uuid: d00e0c25dadd44cb8b28d257e76b768a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711053804375
+status: 4
+tags: []
+user_id: smlab

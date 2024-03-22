@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/smlab/Documents/Harish/ml/mlOPS/my-project/mlruns/903391390449659706/a3cf6b09b77e42c18e23656a9d4dccfa/artifacts
+end_time: 1711105475953
+entry_point_name: ''
+experiment_id: '903391390449659706'
+lifecycle_stage: active
+run_id: a3cf6b09b77e42c18e23656a9d4dccfa
+run_name: test
+run_uuid: a3cf6b09b77e42c18e23656a9d4dccfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711105471377
+status: 3
+tags: []
+user_id: smlab

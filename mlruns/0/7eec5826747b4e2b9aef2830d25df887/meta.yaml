@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/smlab/Documents/Harish/ml/mlOPS/my-project/mlruns/0/7eec5826747b4e2b9aef2830d25df887/artifacts
+end_time: 1711053882439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7eec5826747b4e2b9aef2830d25df887
+run_name: clean-steed-880
+run_uuid: 7eec5826747b4e2b9aef2830d25df887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711053882388
+status: 3
+tags: []
+user_id: smlab

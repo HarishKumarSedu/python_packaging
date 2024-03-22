@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/smlab/Documents/Harish/ml/mlOPS/my-project/mlruns/903391390449659706/9fafabc4bb7f478cafe88a71a9060589/artifacts
+end_time: 1711054073957
+entry_point_name: ''
+experiment_id: '903391390449659706'
+lifecycle_stage: active
+run_id: 9fafabc4bb7f478cafe88a71a9060589
+run_name: caring-auk-825
+run_uuid: 9fafabc4bb7f478cafe88a71a9060589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711054073921
+status: 3
+tags: []
+user_id: smlab
